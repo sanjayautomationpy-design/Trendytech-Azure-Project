@@ -7,3 +7,4 @@ CREATE TABLE IF NOT EXISTS audit.load_logs (
     loaddate TIMESTAMP
 );
 
+--for testing purpose
